@@ -1,0 +1,15 @@
+{
+  "name": "aula03",
+  "version": "1.0.0",
+  "description": "aula do dia 03/08",
+  "main": "lista.html", 
+  "scripts": {
+    
+  },
+  "keywords": [
+    "aula",
+    "hoje"
+  ],
+  "author": "Aieychan karoline",
+  "license": "ISC"
+}
